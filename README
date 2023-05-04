@@ -1,5 +1,7 @@
 This is a multi-threaded multi-pool FPGA and ASIC miner for bitcoin.
 
+[DOWNLOAD CGMINER 4.11.0](https://github.com/BTC-media/cgminer)
+
 This code is provided entirely free of charge by the programmer in his spare
 time so donations would be greatly appreciated. Please consider donating to the
 address below. Driver development for new ASIC only bitcoin hardware can be
@@ -11,10 +13,6 @@ Con Kolivas <kernel@kolivas.org>
 NOTE: This code is licensed under the GPLv3. This means that the source to any
 modifications you make to this code MUST be provided by law if you distribute
 modified binaries. See COPYING for details.
-
-
-[DOWNLOAD CGMINER 4.11.0](
-https://github.com/BTC-media/cgminer)
 
 Support thread:
 
