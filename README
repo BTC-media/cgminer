@@ -3,8 +3,8 @@ CGMiner - is an open source miner for ASIC, GPU and FPGA. It works on Windows, L
 CGMiner is extremely flexible in terms of platform and can work with a variety of hardware miners and GPUs including AMD, CUDA and NVIDIA platforms.
 
 DOWNLOAD CGMINER 4.11.0:
-+ [WINDOWS](https://github.com/BTC-media/cgminer/releases)
-+ [LINUX](http://ck.kolivas.org/apps/cgminer/)
++ WINDOWS: https://github.com/BTC-media/cgminer/releases
++ LINUX: http://ck.kolivas.org/apps/cgminer/
 
 This code is provided entirely free of charge by the programmer in his spare
 time so donations would be greatly appreciated. Please consider donating to the
