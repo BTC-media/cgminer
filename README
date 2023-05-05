@@ -1,21 +1,21 @@
-This is a multi-threaded multi-pool FPGA and ASIC miner for bitcoin.
+This is a multi-threaded multi-pool FPGA and ASIC miner for bitcoin. 
+CGMiner - is an open source miner for ASIC, GPU and FPGA. It works on Windows, Linux and macOS. 
+CGMiner is extremely flexible in terms of platform and can work with a variety of hardware miners and GPUs including AMD, CUDA and NVIDIA platforms.
 
-[DOWNLOAD CGMINER 4.11.0](https://github.com/BTC-media/cgminer)
+DOWNLOAD CGMINER 4.11.0:
++ WINDOWS: https://github.com/BTC-media/cgminer/releases
++ LINUX: http://ck.kolivas.org/apps/cgminer/
 
 This code is provided entirely free of charge by the programmer in his spare
 time so donations would be greatly appreciated. Please consider donating to the
 address below. Driver development for new ASIC only bitcoin hardware can be
 suitably sponsored.
 
-Con Kolivas <kernel@kolivas.org>
-15qSxP1SQcUX3o4nhkfdbgyoWEFMomJ4rZ
-
 NOTE: This code is licensed under the GPLv3. This means that the source to any
 modifications you make to this code MUST be provided by law if you distribute
 modified binaries. See COPYING for details.
 
 Support thread:
-
 http://bitcointalk.org/index.php?topic=28402.0
 
 IRC Channel:
